@@ -1,0 +1,8 @@
+export const AddTodo = "add"
+export const Toggle = "toggle"
+export const Search = "search"
+export const Remove = "remove"
+export const MarkComleted = "markComleted"
+export const MarkAllComleted = "markAllComleted"
+export const MarkInComleted = "markInComleted"
+export const Filter = "filter"
